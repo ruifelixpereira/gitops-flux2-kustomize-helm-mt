@@ -5,3 +5,4 @@ metadata:
 spec:
   interval: 5m
   url: oci://acrrfp000.azurecr.io/helm
+  type: "oci"
